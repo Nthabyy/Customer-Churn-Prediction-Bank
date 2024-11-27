@@ -30,7 +30,6 @@ Preprocessing is critical to transforming the raw data into a format suitable fo
 - **One-Hot Encoding**: Categorical variables are converted into numeric representations using one-hot encoding, which transforms each category into a binary column.
 
 ### 4. **Data Transformation**
-- **Percentile-based filtering**: To remove outliers, we used a percentile method that removes data points beyond the 1st and 99th percentiles.
 - **Standardization**: We applied standardization to the dataset to scale the features to have a mean of 0 and a standard deviation of 1, improving the model's ability to converge faster.
 
 ## Model Algorithms
@@ -43,19 +42,20 @@ To understand how the model makes predictions, we used the following model expla
 - **SHAP (SHapley Additive exPlanations)**: SHAP provides a unified measure of feature importance and allows us to understand the contribution of each feature to the final prediction.
 - **LIME (Local Interpretable Model-agnostic Explanations)**: LIME explains the model's predictions by approximating the model with an interpretable one, showing the contribution of each feature to the decision.
 
-### Visualizations:
+## Model Evaluation Results
 
 ### Power BI Analysis
 
-![Power BI Analysis](https://github.com/Nthabyy/Customer-Churn-Prediction-Bank/blob/master/BI%20Analysis%20Customer%20Churn.png)
+![Power BI Analysis](https://github.com/Nthabyy/Customer-Churn-Prediction-Bank/blob/master/BI%20Analysis%20Customer%20Churn.png?raw=true)
 
 ### Model Evaluation Heatmap
 
-![Model Evaluation Heatmap](https://github.com/Nthabyy/Customer-Churn-Prediction-Bank/blob/master/Picturues/Model-eva-%20Heatmap.png)
+![Model Evaluation Heatmap](https://github.com/Nthabyy/Customer-Churn-Prediction-Bank/blob/master/Picturues/Model-eva-%20Heatmap.png?raw=true)
 
 ### Model Analysis using Lime
 
-![Model Analysis Lime](https://github.com/Nthabyy/Customer-Churn-Prediction-Bank/blob/master/Picturues/Model-Analysis%20Lime.png)
+![Model Analysis Lime](https://github.com/Nthabyy/Customer-Churn-Prediction-Bank/blob/master/Picturues/Model-Analysis%20Lime.png?raw=true)
+
 ## Model Evaluation
 
 ## Model Evaluation Results
