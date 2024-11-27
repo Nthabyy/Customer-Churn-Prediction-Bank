@@ -26,7 +26,7 @@ The goal of EDA is to understand the data and uncover hidden patterns. Various t
 ### 3. **Data Preprocessing**
 Preprocessing is critical to transforming the raw data into a format suitable for machine learning models:
 - **Handling Outliers**: We used techniques such as percentile-based filtering to remove extreme values that may affect model performance.
-- **Standardization**: We applied standard scaling to ensure that all features are on the same scale, which is crucial for algorithms like Logistic Regression or KNN.
+- **Standardization**: We applied standard scaling to ensure that all features are on the same scale.
 - **One-Hot Encoding**: Categorical variables are converted into numeric representations using one-hot encoding, which transforms each category into a binary column.
 
 ### 4. **Data Transformation**
