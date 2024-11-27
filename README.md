@@ -42,7 +42,7 @@ To understand how the model makes predictions, we used the following model expla
 - **SHAP (SHapley Additive exPlanations)**: SHAP provides a unified measure of feature importance and allows us to understand the contribution of each feature to the final prediction.
 - **LIME (Local Interpretable Model-agnostic Explanations)**: LIME explains the model's predictions by approximating the model with an interpretable one, showing the contribution of each feature to the decision.
 
-## Model Evaluation Results
+## Model Evaluation  Analysis Results
 
 ### Power BI Analysis
 
@@ -56,7 +56,12 @@ To understand how the model makes predictions, we used the following model expla
 
 ![Model Analysis Lime](https://github.com/Nthabyy/Customer-Churn-Prediction-Bank/blob/master/Picturues/Model-Analysis%20Lime.png?raw=true)
 
-## Model Evaluation
+Below is an example of a **single observation** interpretation using SHAP, which helps to understand the contribution of each feature in the model's decision-making process.
+
+![Model Inter Dependency using SHAP](https://github.com/Nthabyy/Customer-Churn-Prediction-Bank/blob/master/Picturues/Model%20Inter%20Dependenct%20using%20Shap.png)
+
+
+## Model Evaluation using Metrics
 
 ## Model Evaluation Results
 
