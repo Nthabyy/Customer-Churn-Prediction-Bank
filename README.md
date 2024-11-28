@@ -48,6 +48,7 @@ To understand how the model makes predictions, we used the following model expla
 
 ![Power BI Analysis](https://github.com/Nthabyy/Customer-Churn-Prediction-Bank/blob/master/BI%20Analysis%20Customer%20Churn.png?raw=true)
 
+
 ### Model Evaluation Heatmap
 
 ![Model Evaluation Heatmap](https://github.com/Nthabyy/Customer-Churn-Prediction-Bank/blob/master/Picturues/Model-eva-%20Heatmap.png?raw=true)
@@ -56,9 +57,10 @@ To understand how the model makes predictions, we used the following model expla
 
 ![Model Analysis Lime](https://github.com/Nthabyy/Customer-Churn-Prediction-Bank/blob/master/Picturues/Model-Analysis%20Lime.png?raw=true)
 
-Below is an example of a **single observation** interpretation using SHAP, which helps to understand the contribution of each feature in the model's decision-making process.
+Below is the **Model Prediction Analysis**. The analysis further explains more on how the model performed by comparing the predicted values with the actual values and the features.
 
-![Model Inter Dependency using SHAP](https://github.com/Nthabyy/Customer-Churn-Prediction-Bank/blob/master/Picturues/Model%20Inter%20Dependenct%20using%20Shap.png)
+
+![UpdatedBI](https://raw.githubusercontent.com/Nthabyy/Customer-Churn-Prediction-Bank/master/UpdatedBI.png)
 
 
 ## Model Evaluation using Metrics
