@@ -29,9 +29,6 @@ Preprocessing is critical to transforming the raw data into a format suitable fo
 - **Standardization**: We applied standard scaling to ensure that all features are on the same scale.
 - **One-Hot Encoding**: Categorical variables are converted into numeric representations using one-hot encoding, which transforms each category into a binary column.
 
-### 4. **Data Transformation**
-- **Standardization**: We applied standardization to the dataset to scale the features to have a mean of 0 and a standard deviation of 1, improving the model's ability to converge faster.
-
 ## Model Algorithms
 
 We used the **Random Forest Classifier** for predicting customer churn. Random Forest is an ensemble learning method that combines multiple decision trees to improve the model’s accuracy and robustness.
