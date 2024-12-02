@@ -22,6 +22,7 @@ The first step in the data preparation process is cleaning. This involves:
 The goal of EDA is to understand the data and uncover hidden patterns. Various techniques are used to visualize the data and check the distribution of features:
 - **Seaborn** and **Matplotlib** are used for visualizing distributions, correlations, and other statistical relationships.
 - **Plotly** is used for interactive plots that help in a more intuitive understanding of complex relationships.
+- **PowerBi** is used for interactive dashbord
 
 ### Power BI Analysis
 
