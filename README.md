@@ -22,6 +22,13 @@ The first step in the data preparation process is cleaning. This involves:
 The goal of EDA is to understand the data and uncover hidden patterns. Various techniques are used to visualize the data and check the distribution of features:
 - **Seaborn** and **Matplotlib** are used for visualizing distributions, correlations, and other statistical relationships.
 - **Plotly** is used for interactive plots that help in a more intuitive understanding of complex relationships.
+- **PowerBi** is used for interactive dashbord
+
+### Power BI Analysis
+
+![Power BI Analysis](https://github.com/Nthabyy/Customer-Churn-Prediction-Bank/blob/master/BI%20Analysis%20Customer%20Churn.png?raw=true)
+
+
 
 ### 3. **Data Preprocessing**
 Preprocessing is critical to transforming the raw data into a format suitable for machine learning models:
@@ -39,12 +46,8 @@ To understand how the model makes predictions, we used the following model expla
 - **SHAP (SHapley Additive exPlanations)**: SHAP provides a unified measure of feature importance and allows us to understand the contribution of each feature to the final prediction.
 - **LIME (Local Interpretable Model-agnostic Explanations)**: LIME explains the model's predictions by approximating the model with an interpretable one, showing the contribution of each feature to the decision.
 
+
 ## Model Evaluation  Analysis Results
-
-### Power BI Analysis
-
-![Power BI Analysis](https://github.com/Nthabyy/Customer-Churn-Prediction-Bank/blob/master/BI%20Analysis%20Customer%20Churn.png?raw=true)
-
 
 ### Model Evaluation Heatmap
 
